@@ -13,8 +13,8 @@ The workflow is as follows:
 
 	(4) Summarize initial projections -- use roster_create.py
 
-	(5) Optimize projections -- get one optimal projection for each site using *_opti_lineup.py files. Get 
-		different (possibly sub-) optimal lineups using opti_stop.py
+	(5) Optimize projections -- get one optimal projection for each site using *_opti_lineup.py files (requires 
+		access to Gurobi package). Get different (possibly sub-) optimal lineups using opti_stop.py
 
 	(6) Scrape qualifying data -- get qualifying results using qualifying.py
 
